@@ -1,5 +1,41 @@
-# Vue 3 + TypeScript + Vite
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Rodando aplicação localmente
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+1. Clonar o repositório:
+
+   ```bash
+    git clone https://github.com/progmateus/knights-frontend.git
+   ```
+
+2. Navegar até o diretório do projeto::
+
+   ```bash
+    cd knights-frontend
+   ```
+
+3. Instalar dependências
+
+   ```bash
+    npm i
+   ```
+
+4. Rodar aplicação
+   ```bash
+    npm run dev
+   ```
+
+
+## Tecnologias utilizadas
+- Vue
+- Tailwind
+- Dayjs
+- Tanstack Query
+- Vue Router
+- Vite
+
+# Autor
+
+Mateus Lopes
+
+https://www.linkedin.com/in/progmateus
